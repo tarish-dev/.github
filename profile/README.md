@@ -64,7 +64,7 @@ the stack top to bottom, and stops only at the radio the vendor ships:
   AirDrop  (mDNS, TLS, HTTP)        daemon     open source
   Quick Share (UKEY2, upgrade)      daemon     open source
   secure channel & crypto           daemon     open source
-  AWDL  (election, sync, channels)  libawdl    open source   ← was Google's libmosey
+  AWDL  (election, sync, channels)  libawdl    open source   ← replaces libmosey
   802.11 bring-up & injection       libawdl    open source
   radio driver & firmware           wonder.ko  vendor        ← the one closed layer
 ```
